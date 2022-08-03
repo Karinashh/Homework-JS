@@ -1,37 +1,21 @@
  // За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом всередині
  for (let i = 0; i < 10; i++) {
-     document.write(`
-     <div> 
-     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, omnis?</p>
-     </div>
-     `);
+     document.write(`<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, omnis?</div>`);
  }
  // За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом і індексом всередині
  for (let i = 0; i < 10; i++) {
-     document.write(`
-     <div>
-     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda reprehenderit similique?</p>
-     </div>
-     ` + i);
+     document.write(`<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda reprehenderit similique? ${i}</div>`);
  }
 // За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом всередині.
  let i = 0
  while (i < 20) {
-     document.write(`
-     <div>
-     <h1>Lorem ipsum dolor sit amet.</h1>
-     </div>
-     `);
+     document.write(`<h1>Lorem ipsum dolor sit amet.</h1>`);
      i++;
  }
 // За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом і індексом всередині.
  i = 0
  while (i < 20) {
-     document.write(`
-     <div>
-     <h1>Lorem ipsum dolor sit.</h1>
-     </div>
-     ` + i);
+     document.write(`<h1>Lorem ipsum dolor sit. ${i}</h1>`);
      i++;
  }
  // Використовуючи данні з масиву, за допомоги document.write та циклу побудувати структуру по шаблону
