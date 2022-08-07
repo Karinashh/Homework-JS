@@ -65,9 +65,11 @@ tags('Hello, world!', 10);
 let mass = [true, 100, 'call', null, 'number', 0, false]
 
 function lists(contentForLi) {
+    document.write(`<ul>`)
     for (const element of contentForLi) {
         document.write(`<li>${element}</li>`);
     }
+    document.write(`</ul>`)
 }
 lists(mass);
 
