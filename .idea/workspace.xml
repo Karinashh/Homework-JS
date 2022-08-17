@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a5939cf-e7bd-4ffe-805e-8a3f1ac61d1f" name="Changes" comment="js3">
+    <list default="true" id="0a5939cf-e7bd-4ffe-805e-8a3f1ac61d1f" name="Changes" comment="js6">
       <change afterPath="$PROJECT_DIR$/Homework4/орал.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework4/ьапрд.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework6/hw6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework6/hw6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework8/hw8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework8/hw8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework3/hw3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework3/hw3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework4/hw4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework4/hw4.js" afterDir="false" />
     </list>
@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658747006858</updated>
       <workItem from="1658747008157" duration="22510000" />
-      <workItem from="1659521392913" duration="33305000" />
+      <workItem from="1659521392913" duration="68563000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1658750229652</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659880997270</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="js6">
+      <created>1660141251332</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660141251332</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +140,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="js" />
     <MESSAGE value="js3" />
-    <option name="LAST_COMMIT_MESSAGE" value="js3" />
+    <MESSAGE value="js6" />
+    <option name="LAST_COMMIT_MESSAGE" value="js6" />
   </component>
 </project>
