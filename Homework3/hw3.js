@@ -58,7 +58,7 @@ let num2 = +prompt('Enter the second number');
 if (num1 > num2) {
     document.write(num1);
 } else if (num1 === num2) {
-    document.write('The numbers are equal')
+    document.write('The numbers are equal');
 } else {
     document.write(num2)
 }
