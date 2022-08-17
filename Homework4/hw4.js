@@ -20,11 +20,11 @@
  }
  // Використовуючи данні з масиву, за допомоги document.write та циклу побудувати структуру по шаблону
  let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
+ document.write('<ul>');
  for (const listOfItem of listOfItems) {
-     document.write('<ul>');
      document.write(`<li>${listOfItem}</li>`);
-     document.write('</ul>');
  }
+ document.write('</ul>');
  // Використовуючи данні з масиву, за допомоги document.write та циклу побудувати структуру по шаблону  Зробити адекватну стилізацію. Великими літерами прописанні властивості об'єкту які потрібно впровадити в шаблон
  let products = [
      {
@@ -88,3 +88,4 @@
          console.log(user);
      }
  }
+ alert('HELLO WORLD')
