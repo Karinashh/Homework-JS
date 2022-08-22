@@ -1,0 +1,14 @@
+
+.member > img {
+    width: 200px;
+    height: 300px;
+}
+.line {
+    display: flex;
+    align-items: center;
+}
+.cell {
+    width: 100vw;
+    justify-content: center;
+    border: black 2px solid;
+}
