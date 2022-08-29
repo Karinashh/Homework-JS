@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a5939cf-e7bd-4ffe-805e-8a3f1ac61d1f" name="Changes" comment="js6">
+    <list default="true" id="0a5939cf-e7bd-4ffe-805e-8a3f1ac61d1f" name="Changes" comment="JavaScript homework №9">
       <change afterPath="$PROJECT_DIR$/Homework4/орал.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework4/ьапрд.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework9/hw9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework9/hw9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework9/hw9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/post-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/user-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,6 +52,12 @@
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\Homework JS\Mini-project" />
+      <recent name="C:\Users\user\IdeaProjects\Homework JS\Mini-project\index" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +70,8 @@
       <workItem from="1659521392913" duration="68563000" />
       <workItem from="1660826353050" duration="865000" />
       <workItem from="1661095090290" duration="18911000" />
-      <workItem from="1661171951356" duration="817000" />
+      <workItem from="1661171951356" duration="14494000" />
+      <workItem from="1661709896239" duration="25857000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1658750229652</created>
@@ -123,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660141251332</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="JavaScript homework №9">
+      <created>1661173002219</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661173002219</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +164,7 @@
     <MESSAGE value="js" />
     <MESSAGE value="js3" />
     <MESSAGE value="js6" />
-    <option name="LAST_COMMIT_MESSAGE" value="js6" />
+    <MESSAGE value="JavaScript homework №9" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript homework №9" />
   </component>
 </project>

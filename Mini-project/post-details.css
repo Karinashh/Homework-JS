@@ -1,0 +1,22 @@
+/*Стилизація проєкта -
+post-details.html - блок з інфою про пост зверху. Коментарі - по 4 в ряд.
+Всі елементи котрі характеризують users, posts, comments візуалізувати, так, щоб було видно що це блоки (дати фон. марджини і тд)*/
+
+.main {
+    margin: 0;
+    background: mediumpurple;
+    border: darkblue solid 2px;
+    text-align: center;
+}
+.blocks {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 310px);
+    gap: 40px 80px;
+    justify-content: space-between;
+}
+.content {
+    height: 200px;
+    background: bisque;
+    border: red solid 2px;
+}

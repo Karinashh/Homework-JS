@@ -1,0 +1,18 @@
+/*Стилизація проєкта -
+index.html - всі блоки з user - по 2 в рядок. кнопки/аосилвння розташувати під інформацією про user.
+Всі елементи котрі характеризують users, posts, comments візуалізувати, так, щоб було видно що це блоки (дати фон. марджини і тд)*/
+.wrap {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 700px);
+    gap: 40px 80px;
+    justify-content: space-between;
+}
+.users {
+    height: 30vh;
+    background: deepskyblue;
+    border: darkslategrey solid 2px;
+}
+.text {
+    height: 20vh;
+}
