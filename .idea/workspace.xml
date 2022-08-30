@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a5939cf-e7bd-4ffe-805e-8a3f1ac61d1f" name="Changes" comment="JavaScript homework №9">
+    <list default="true" id="0a5939cf-e7bd-4ffe-805e-8a3f1ac61d1f" name="Changes" comment="Mini project JavaScript">
       <change afterPath="$PROJECT_DIR$/Homework4/орал.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework4/ьапрд.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/post-details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/post-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/user-details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/user-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini-project/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mini-project/user-details.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +62,7 @@
       <workItem from="1660826353050" duration="865000" />
       <workItem from="1661095090290" duration="18911000" />
       <workItem from="1661171951356" duration="14494000" />
-      <workItem from="1661709896239" duration="25857000" />
+      <workItem from="1661709896239" duration="26545000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1658750229652</created>
@@ -143,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661173002219</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Mini project JavaScript">
+      <created>1661787761837</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661787761837</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +163,7 @@
     <MESSAGE value="js3" />
     <MESSAGE value="js6" />
     <MESSAGE value="JavaScript homework №9" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaScript homework №9" />
+    <MESSAGE value="Mini project JavaScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini project JavaScript" />
   </component>
 </project>

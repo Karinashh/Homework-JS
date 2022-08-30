@@ -65,30 +65,7 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
 
 
 
-//
-// for (const dataKey in data) {
-//
-//     let div = document.createElement('div');
-//     div.innerText = `${dataKey} : ${data[dataKey]}`;
-//     document.body.appendChild(div);
-//
-// }
-// let button = document.createElement('button');
-// button.href = `user-details.html?id=${data.id}`;
-// button.innerText = ' post of current user';
-// button.onclick = function () {
-//     fetch(`http://jsonplaceholder.typicode.com/users/${id}/posts`)
-//         .then(responce => responce.json())
-//         .then(posts => {
-//             for (const post of posts) {
-//                 let div1 = document.createElement('div');
-//                 div1.innerText = post.title;
-//                 document.body.appendChild(div1);
-//             }
-//
-//         })}
-// document.body.appendChild(button);
-// })
+
 
 
 
