@@ -21,6 +21,10 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
                     div.classList.add('data');
                     parents.appendChild(div);
                 } else {
+                    let div = document.createElement('div');
+                    div.innerText = `${dataKey}:`;
+                    div.classList.add('data');
+                    parents.appendChild(div);
                     recursion(data[dataKey])
                 }
                 }
@@ -51,7 +55,7 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
 
                     let aForPost = document.createElement('a');
                     aForPost.href = `post-details.html?id=${post.id}`;
-                    aForPost.innerText = ' detail of current post';
+                    aForPost.innerText = ' details of current post';
                     div1.appendChild(aForPost)
                 }
                 document.body.appendChild(information);

@@ -9,7 +9,7 @@ index.html - всі блоки з user - по 2 в рядок. кнопки/ао
     justify-content: space-between;
 }
 .users {
-    height: 30vh;
+    height: 250px;
     background: deepskyblue;
     border: darkslategrey solid 2px;
 }
